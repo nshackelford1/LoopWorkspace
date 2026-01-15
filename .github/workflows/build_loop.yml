@@ -218,7 +218,7 @@ jobs:
           now_line \
           watch_title \
           meal_days \
-          no_auth
+          no_auth \
           profiles \
           basal_lock \
           negative_insulin \
